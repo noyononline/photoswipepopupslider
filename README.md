@@ -13,7 +13,7 @@ Basic example:
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>photoswipepopupslider</title>
-    <link rel="stylesheet" href="./css/photoswipe.css">
+    <link rel="stylesheet" href="./photoswipe.css">
 
 
     <style>
@@ -47,9 +47,9 @@ Basic example:
     </div>
 
 
-    <script src="./js/photoswipe-lightbox.umd.min.js"></script>
-    <script src="./js/photoswipe.umd.min.js"></script>
-    <script src="./js/custom.js"></script>
+    <script src="./photoswipe-lightbox.umd.min.js"></script>
+    <script src="./photoswipe.umd.min.js"></script>
+    <script src="./custom.js"></script>
 </body>
 </html>
 
